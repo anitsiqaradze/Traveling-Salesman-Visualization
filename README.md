@@ -3,13 +3,13 @@ Problem (TSP) using a distance matrix as input.
 Built with JavaScript and the p5.js library for drawing and animation.
 
 ## Tech Stack
-  -Javascript (ES6+)
-  -p5.js for canvas rendering
-  -HTML&CSS
++Javascript (ES6+)
++p5.js for canvas rendering
++HTML&CSS
 
 ##Features
-  -Accepts matrix-style input representing a complete weighted graph.
-  -Visualizes the TSP route step by step, dynamically.
++Accepts matrix-style input representing a complete weighted graph.
++Visualizes the TSP route step by step, dynamically.
 
 ##Screenshots
 
